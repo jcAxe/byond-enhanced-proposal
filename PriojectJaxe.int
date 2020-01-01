@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1577770647
+DIR: Code Icons Icons\Turfs Icons\Turfs\Floor Icons\Turfs\Generic Icons\Turfs\Lamps Icons\Turfs\Plants Icons\Turfs\Rocks Icons\Turfs\Water Maps 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 512.1488
+WINDOW: PriojectJaxe.dm;Icons\Turfs\Water\sea.dmi;Code\areas.dm;Code\turfs.dm;Code\player.dm;Maps\map_test_1.dmm;Icons\Turfs\Plants\bushes.dmi;Icons\Turfs\Plants\sprouts.dmi;Icons\Turfs\Rocks\gray_rocks.dmi;Icons\base_1_male.dmi;Code\mob.dm
+FILE: Code\mob.dm
+*/
+// END_INTERNALS

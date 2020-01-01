@@ -1,0 +1,36 @@
+// DM Environment file for PriojectJaxe.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Icons"
+#define FILE_DIR "Icons/FX"
+#define FILE_DIR "Icons/Items"
+#define FILE_DIR "Icons/Items/Wearable"
+#define FILE_DIR "Icons/Turfs"
+#define FILE_DIR "Icons/Turfs/Floor"
+#define FILE_DIR "Icons/Turfs/Generic"
+#define FILE_DIR "Icons/Turfs/Lamps"
+#define FILE_DIR "Icons/Turfs/Plants"
+#define FILE_DIR "Icons/Turfs/Rocks"
+#define FILE_DIR "Icons/Turfs/Water"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "PriojectJaxe.dm"
+#include "Code\areas.dm"
+#include "Code\enemies.dm"
+#include "Code\mob.dm"
+#include "Code\objects.dm"
+#include "Code\player.dm"
+#include "Code\turfs.dm"
+#include "Maps\map_test_1.dmm"
+// END_INCLUDE
+

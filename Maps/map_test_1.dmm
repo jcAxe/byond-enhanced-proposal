@@ -1,0 +1,55 @@
+"a" = (/turf/Water/Sea/Offshore_Right_Flow_2,/area/ocean)
+"b" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/White_Tiles/White_Tiles_Left_0,/area/land)
+"c" = (/turf/Floor/White_Tiles/White_Tiles_Central_0,/area/land)
+"d" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/White_Tiles/White_Tiles_Right_0,/area/land)
+"e" = (/turf/Floor/Sand/Sand_Floor_2,/area/land)
+"f" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/White_Tiles/White_Tiles_Bottom_0,/area/land)
+"g" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Hand_Rail/Hand_Rail_Right_Top_0,/area/land)
+"h" = (/turf/Floor/Sand/Sand_Floor_3,/area/land)
+"i" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/Sand/Sand_Right_Lane_2,/turf/Hand_Rail/Hand_Rail_Left_Continuous_0,/area/land)
+"j" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Hand_Rail/Hand_Rail_Left_Top_0,/area/land)
+"k" = (/turf/Floor/Sand/Sand_Floor_4,/area/coast)
+"l" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/Sand/Sand_Right_Lane_3,/turf/Hand_Rail/Hand_Rail_Left_Continuous_0,/area/coast)
+"m" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/Sand/Sand_Left_Lane_2,/turf/Hand_Rail/Hand_Rail_Right_Continuous_0,/area/land)
+"n" = (/turf/Floor/Sand/Sand_Floor_5,/area/coast)
+"o" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/Sand/Sand_Right_Lane_4,/turf/Hand_Rail/Hand_Rail_Left_Bot_0,/area/coast)
+"p" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/Sand/Sand_Left_Lane_4,/turf/Water/Sea/Shore_Rush_0,/area/coast)
+"q" = (/turf/Floor/Sand/Sand_Floor_5,/turf/Water/Sea/Shore_Rush_0,/area/coast)
+"r" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/Sand/Sand_Left_Lane_3,/turf/Hand_Rail/Hand_Rail_Right_Continuous_0,/area/coast)
+"s" = (/turf/Water/Sea/Offshore_3,/area/ocean)
+"t" = (/turf/Water/Sea/Offshore_3,/area/sea)
+"u" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/Sand/Sand_Left_Lane_4,/turf/Hand_Rail/Hand_Rail_Right_Bot_0,/area/coast)
+"v" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/Sand/Sand_Right_Lane_4,/turf/Water/Sea/Shore_Rush_0,/area/coast)
+"w" = (/mob/monster/evil_ball,/turf/Floor/White_Tiles/White_Tiles_Central_0,/area/land)
+"x" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Plants/Sprouts/Sprout_1,/area/land)
+"y" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Plants/Small_Bushes/Small_Bush_0,/area/land)
+"z" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Plants/Sprouts/Sprout_0,/area/land)
+"A" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Rocks/Grey/Big/Big_Rock_0,/area/land)
+"B" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Rocks/Grey/Small/Small_Rock_0,/area/land)
+"C" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Rocks/Grey/Small/Grassy_Small_Rock_0,/area/land)
+"D" = (/turf/Floor/White_Tiles/White_Tiles_Central_0,/turf/Neon_Light_Red,/turf/Neon_Light_Red_FX,/area/land)
+"E" = (/turf/Floor/Sand/Sand_Floor_2,/turf/Floor/White_Tiles/White_Tiles_Bottom_0,/turf/Rocks/Grey/Big/Big_Rock_0,/area/land)
+"F" = (/turf/Floor/White_Tiles/White_Tiles_Central_0,/turf/Rocks/Grey/Small/Small_Rock_0,/area/land)
+
+(1,1,1) = {"
+aabccccccccccccccccd
+aabccccccccccccccccd
+aabcFFFccccccccccccd
+aabcFDFccccccccccccd
+aabcFFFcccwccccccccd
+aaeffffffffffffffEfe
+aaBxyxzBBBBBBBBBBBBB
+aaBxxxxBBBBBBBBBBBBB
+aaBxyxzAABBBBBABBBBB
+aaBzzzzBCBBBBBBBBBBB
+aaeeeeeeeeeeeeeeeeee
+aaeeeeeeeeeeeeeeeeee
+aaeeeeeeeeAeeeeeeeee
+aaeeeeeeeeeeeeeeeeee
+aageeeeeeeeeeeeeeeej
+aamhhhhhhhhhhhhhhhhi
+aarkkkkkkkkkkkkkkkkl
+aaunnnnnnnnnnnnnnnno
+aapqqqqqqqqqqqqqqqqv
+sstttttttttttttttttt
+"}
