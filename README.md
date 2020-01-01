@@ -1,7 +1,7 @@
 First of all, I must thank Invy and LucasZoé for all the help in this.
 
 
-###Introduction
+### Introduction
 
 In this topic, I will propose a Style Guide for Byond Code. It is largely inspired by the Python Enhanced Proposal 8 (PEP8), so I suggest calling it Byond Enhanced Proposal 1.
 
